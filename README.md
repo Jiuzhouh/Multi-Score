@@ -39,4 +39,4 @@ python3 Multi-Score.py -R data/references/test_reference -H1 data/predictions/pr
 
 ### Multiple References
 
-In case of multiple references, they have to be stored in separated files and named reference0, reference1, reference2, etc.
+In case of multiple references, they have to be stored in separated files and named reference0, reference1, reference2, etc.# Multi-Score
